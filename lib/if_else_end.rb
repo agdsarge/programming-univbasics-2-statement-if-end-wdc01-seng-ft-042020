@@ -2,4 +2,4 @@
 
 current_time = Time.now
 
-puts current_time.to_int
+puts current_time.to_i
